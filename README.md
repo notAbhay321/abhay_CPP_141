@@ -1,10 +1,10 @@
-# 📘 C++ Basics — Learning Repository
+#  C++ Basics (Class practice programs)
 
 A structured collection of C++ programs covering core OOP concepts, from basics to pointers and polymorphism.
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 cpp_basics/
@@ -20,7 +20,7 @@ cpp_basics/
 
 ---
 
-## 📂 1. Basic
+##  1. Basic
 
 > Fundamentals of C++ — I/O, variables, strings, and scope.
 
@@ -39,7 +39,7 @@ cpp_basics/
 
 ---
 
-## 📂 2. Functions & Encapsulation
+##  2. Functions & Encapsulation
 
 > Function definitions, inline functions, and encapsulation principles.
 
@@ -51,7 +51,7 @@ cpp_basics/
 
 ---
 
-## 📂 3. Classes
+##  3. Classes
 
 > OOP class basics — public/private members, access specifiers.
 
@@ -63,7 +63,7 @@ cpp_basics/
 
 ---
 
-## 📂 4. Inheritance
+##  4. Inheritance
 
 > Derived classes, access specifiers in inheritance, and friend classes.
 
@@ -78,7 +78,7 @@ cpp_basics/
 
 ---
 
-## 📂 5. Passing Objects
+##  5. Passing Objects
 
 > Passing objects to functions and returning objects.
 
@@ -90,7 +90,7 @@ cpp_basics/
 
 ---
 
-## 📂 6. Constructors
+##  6. Constructors
 
 > Default, parameterized, and copy constructors.
 
@@ -100,7 +100,7 @@ cpp_basics/
 
 ---
 
-## 📂 7. Pointers
+##  7. Pointers
 
 > Pointers to objects, `this` operator, and polymorphism.
 
@@ -114,7 +114,7 @@ cpp_basics/
 
 ---
 
-## 📂 Root-Level Files
+##  Root-Level Files
 
 | # | File | Description |
 |---|------|-------------|
@@ -126,7 +126,7 @@ cpp_basics/
 
 ---
 
-## 📂 Bugs & Errors
+##  Bugs & Errors practice codes
 
 > Debugging exercises and error-fixing practice.
 
@@ -136,27 +136,6 @@ cpp_basics/
 | 2 | [program_2.cpp](bugs_errors/program_2.cpp) | Debug exercise 2 |
 | 3 | [test.cpp](bugs_errors/test.cpp) | Test/scratch file |
 
----
-
-## 🚀 Topics Covered
-
-- ✅ Basic I/O, Variables & Strings
-- ✅ Scope Resolution Operator
-- ✅ Functions & Inline Functions
-- ✅ Encapsulation
-- ✅ Classes — Public & Private Members
-- ✅ Inheritance — Single, Multiple, Multilevel
-- ✅ Friend Classes
-- ✅ Passing & Returning Objects
-- ✅ Static Variables
-- ✅ Constructors (Default, Parameterized, Copy)
-- ✅ Pointers to Objects
-- ✅ `this` Pointer
-- ✅ Pointer Polymorphism
-- ✅ Virtual Functions
-- ✅ Pure Virtual Functions / Abstract Classes
-- ✅ Virtual Base Classes
-- ✅ Nested Classes
 
 ---
 
