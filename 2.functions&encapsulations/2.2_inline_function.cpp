@@ -21,6 +21,7 @@ inline int sum(int a, int b)   // inline function
 int main()
 {
     int a,b,result;
+    int x,y;
 
     cout<<"Enter two numbers"<<endl;
     cout<<"a: ";
@@ -29,6 +30,7 @@ int main()
     cin>>b;
     result = sum(a,b);
     cout<<"Sum = "<<result<<endl;
-
+    x=sum(3,9);
+    y=sum(10,10);
     return 0;
 }
